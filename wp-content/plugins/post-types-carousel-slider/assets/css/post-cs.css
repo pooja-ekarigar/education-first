@@ -1,0 +1,139 @@
+#post-cs{width:100%;margin:0 auto;color:#fff;font-family: Raleway, sans-serif;font-size:14px;position:relative;min-height:100px}
+#post-cs *{color:#333;font-size: 12px;}
+#post-cs .ps-box{}
+#post-cs .ps-box .ps-pad{padding:0px;overflow:hidden}
+#post-cs a{cursor:pointer;color:#fff;text-decoration:none}
+#post-cs h2{margin:6px 0px;font-size:14px}
+#post-cs img.ps-image{float:left;border-radius:3px}
+#post-cs .ps-content {float:left;width:75%;margin-left:20px}
+#post-cs .ps-readmore{color:#fff;font-size:11px;margin-top:5px;padding:4px 7px;background:#0C6CE1;display:inline-block;cursor:pointer;border-radius:3px;box-shadow:none}
+
+/*Next .ps-prev*/
+#post-cs .ps-next,#post-cs .ps-prev{position:absolute;bottom:20px;color:#fff0;font-size:11px;margin:0;padding:4px 7px;background:#0C6CE1;display:inline-block;cursor:pointer;border-radius:3px;box-shadow:none}
+#post-cs .ps-next{right: -12px;
+    /* left: 0; */
+    background: url(http://ekarigarclients.com/education-first/wp-content/uploads/2018/12/arrow_right.png);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 46px;
+    background-size: 60%;}
+#post-cs .ps-prev{left: 0;
+    background: url(http://ekarigarclients.com/education-first/wp-content/uploads/2018/12/arror_left.png);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 46px;
+    background-size: 60%;}
+
+/*Pagination*/
+#post-cs .ps-pagi{width:100%;clear:both;text-align:center;padding:15px 0;    display: none;}
+#post-cs .ps-pagi a{margin:0 5px;text-decoration:none;border:none;width:10px;height:10px;border-radius:80px;background:#61AAD9;display:inline-block;text-indent:-10000px;box-shadow:none}
+#post-cs .ps-pagi a:hover,#post-cs .ps-pagi a.active{background:#0C6CE1}
+
+/*Loading*/
+#post-cs.loading .loading-box{position:absolute;left:0;top:0;width:100%;height:100%;z-index:999}
+#post-cs.loading .loading-box span{position:absolute;display:block;width:16px;height:16px;left:50%;top:50%;margin-left:-8px;margin-top:-40px;background:url(../img/loader.gif) no-repeat}
+
+/*Nodata*/
+#post-cs .nodata{position:absolute;left:0;top:0;width:100%;text-align:center;padding:5px 0;z-index:999;background:#869791;color:#fff;font-size:12px;border-radius:3px 3px 0 0}
+
+/*Full width*/
+#post-cs.fullwidth{width:100%;overflow:hidden}
+#post-cs.fullwidth img.ps-image{max-width:150px}
+
+/*Fix width*/
+#post-cs.fixwidth{width:768px;overflow:hidden}
+#post-cs.fixwidth img.ps-image{max-width:150px}
+
+/*Grid*/
+#post-cs.grid{width:100%;overflow:hidden}
+#post-cs.grid img.ps-image{max-width:150px}
+#post-cs.grid .ps-box{margin-bottom:10px}
+#post-cs.grid .ps-next,#post-cs.grid .ps-prev{bottom:0}
+
+/*Grid - 2*/
+#post-cs.grid2{width:100%;overflow:hidden}
+#post-cs.grid2 img.ps-image{float:none;margin-bottom:20px;max-width:150px}
+#post-cs.grid2 .ps-content{float:none;width:auto;margin-left:0}
+#post-cs.grid2 .ps-box{margin:0 0.5% 10px 0.5%;width:49%;float:left}
+#post-cs.grid2 .ps-next,#post-cs.grid2 .ps-prev{bottom:0}
+
+/*In Sidebar (Widget)*/
+#post-cs.insidebar{width:100%;overflow:hidden}
+#post-cs.insidebar img.ps-image{float:none;margin-bottom:20px;max-width:150px}
+#post-cs.insidebar .ps-content{float:none;width:auto;margin-left:0}
+
+/*Carousel - 2*/
+#post-cs.carousel2{width:768px;overflow:hidden}
+#post-cs.carousel2 img.ps-image{float:none;margin-bottom:20px;max-width:150px}
+#post-cs.carousel2 .ps-content{float:none;width:auto;margin-left:0}
+#post-cs.carousel2 .ps-box{width:49%;margin:0.5%;float:left}
+
+/*Carousel - 3*/
+#post-cs.carousel3{width:768px;overflow:hidden}
+#post-cs.carousel3 img.ps-image{float:none;margin-bottom:20px;max-width:150px}
+#post-cs.carousel3 .ps-content{float:none;width:auto;margin-left:0}
+#post-cs.carousel3 .ps-box{width:32.3%;margin:0.5%;float:left}
+
+/*Carousel - 4*/
+#post-cs.carousel4{overflow:hidden}
+#post-cs.carousel4 img.ps-image{float:none;margin-bottom:5px;max-width:100%}
+#post-cs.carousel4 .ps-content{float:none;width:auto;margin-left:0}
+#post-cs.carousel4 .ps-box{width:24%;margin:0.5%;float:left}
+
+/*No ajax - bxSlider*/
+.bxslider li .ps-pad{padding:20px;overflow:hidden}
+.bxslider li a{cursor:pointer;color:#fff;text-decoration:none}
+.bxslider li h2{margin:0;font-size:25px}
+.bxslider li img.ps-image{float:left;border-radius:3px;max-width: 150px;}
+.bxslider li .ps-content {float:left;width:75%;margin-left:20px}
+.bxslider li .ps-readmore{color:#fff;font-size:11px;margin-top:5px;padding:4px 7px;background:#0C6CE1;display:inline-block;cursor:pointer;border-radius:3px;box-shadow:none}
+
+
+/*Responsive*/
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+	/*Fix width*/
+	#post-cs.fixwidth{width:100%}
+	#post-cs.fixwidth img.ps-image{float:none;margin-bottom:20px}
+	#post-cs.fixwidth .ps-content{float:none;width:auto;margin-left:0}
+
+	/*Full width*/
+	#post-cs.fullwidth{width:100%}
+	#post-cs.fullwidth img.ps-image{float:none;margin-bottom:20px}
+	#post-cs.fullwidth .ps-content{float:none;width:auto;margin-left:0}
+
+	/*Carousel - 2*/
+	#post-cs.carousel2{width:100%}
+	#post-cs.carousel2 h2{font-size:15px}
+	#post-cs.carousel2 img.ps-image{max-width:100%}
+
+	/*Carousel - 3*/
+	#post-cs.carousel3{width:100%}
+	#post-cs.carousel3 h2{font-size:15px}
+	#post-cs.carousel3 img.ps-image{max-width:100%}
+	#post-cs.carousel3 .ps-excerpt{display:none}
+
+	/*Carousel - 4*/
+	#post-cs.carousel4{width:100%}
+	#post-cs.carousel4 h2{font-size:15px}
+	#post-cs.carousel4 img.ps-image{max-width:100%}
+	#post-cs.carousel4 .ps-excerpt{display:none}
+
+}
+.ps-excerpt {
+    display: none;
+}
+.img_custom_slider {
+    height: 118px;
+    overflow: inherit;
+    position: relative;
+    width: 100%;
+}
+.slider_post_slider h3{
+	margin-top: 0px !important;
+}

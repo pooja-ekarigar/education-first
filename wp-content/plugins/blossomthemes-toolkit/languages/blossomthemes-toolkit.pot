@@ -1,0 +1,916 @@
+# Copyright (C) 2018 blossomthemes
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: BlossomThemes Toolkit 2.0.4\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/blossomthemes-toolkit\n"
+"POT-Creation-Date: 2018-09-17 09:15:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: admin/class-blossomthemes-toolkit-admin.php:106
+#: includes/class-blossomthemes-toolkit-functions.php:124
+msgid "Upload"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:107
+#: includes/class-blossomthemes-toolkit-functions.php:126
+msgid "Change"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:108
+#: includes/class-blossomthemes-toolkit-functions.php:147
+msgid "Please upload valid image file."
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:111
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:112
+msgid "Select Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:117
+msgid "Are you sure you want to delete this Social Media?"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:166
+msgid "Portfolio Template"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:205
+#: admin/class-blossomthemes-toolkit-admin.php:234
+msgid "Image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:209
+#: admin/class-blossomthemes-toolkit-admin.php:245
+msgid "Add Image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:210
+#: admin/class-blossomthemes-toolkit-admin.php:246
+#: includes/class-blossomthemes-toolkit-functions.php:135
+msgid "Remove Image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:340
+#: includes/widgets/widget-advertisement.php:128
+#: includes/widgets/widget-client-logo.php:163
+#: includes/widgets/widget-cta.php:250
+#: includes/widgets/widget-icon-text.php:123
+#: includes/widgets/widget-image-text.php:37
+#: includes/widgets/widget-image-text.php:161
+#: includes/widgets/widget-testimonial.php:119
+msgid "Upload Image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:346
+#: includes/widgets/widget-advertisement.php:136
+#: includes/widgets/widget-client-logo.php:166
+#: includes/widgets/widget-image-text.php:44
+#: includes/widgets/widget-image-text.php:168
+msgid "Featured Link"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:360
+#: includes/widgets/widget-faqs.php:102
+msgid "Question"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:362
+#: includes/widgets/widget-faqs.php:104
+msgid "Answer"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:413
+msgid "Add New"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:420
+msgid "Not found"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:421
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:422
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:423
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:424
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:425
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:470
+msgid "Search Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:471
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:472
+msgid "Parent Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:473
+msgid "Parent Categories:"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:474
+msgid "Edit Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:475
+msgid "Update Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:476
+msgid "Add New Categories"
+msgstr ""
+
+#: admin/class-blossomthemes-toolkit-admin.php:477
+msgid "New Categories Name"
+msgstr ""
+
+#: includes/class-blossomthemes-toolkit-functions.php:121
+msgid "No file chosen"
+msgstr ""
+
+#: includes/class-blossomthemes-toolkit-functions.php:129
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/templates/blossom-portfolio.php:22
+msgid "All"
+msgstr ""
+
+#: includes/templates/single-blossom-portfolio.php:40
+msgid "Related Projects"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:25
+msgid "Blossom: Advertisement Widget"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:26
+msgid "An Advertisement Widget."
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:116
+#: includes/widgets/widget-author-bio.php:360
+#: includes/widgets/widget-client-logo.php:141
+#: includes/widgets/widget-contact.php:237 includes/widgets/widget-cta.php:186
+#: includes/widgets/widget-facebook-page.php:104
+#: includes/widgets/widget-icon-text.php:114
+#: includes/widgets/widget-image-text.php:141
+#: includes/widgets/widget-popular-post.php:214
+#: includes/widgets/widget-recent-post.php:145
+#: includes/widgets/widget-socialmedia.php:216
+#: includes/widgets/widget-stat-counter.php:130
+#: includes/widgets/widget-twitter-feeds.php:136
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:121
+msgid "Display Advertisement from:"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:123
+#: includes/widgets/widget-advertisement.php:141
+msgid "Ad Code"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:125
+#: includes/widgets/widget-author-bio.php:374
+#: includes/widgets/widget-author-bio.php:395
+msgid "Uploaded Photo"
+msgstr ""
+
+#: includes/widgets/widget-advertisement.php:132
+#: includes/widgets/widget-client-logo.php:154
+#: includes/widgets/widget-featured-page.php:202
+#: includes/widgets/widget-icon-text.php:146
+#: includes/widgets/widget-image-text.php:146
+#: includes/widgets/widget-team-member.php:197
+msgid "Open in Same Tab"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:33
+msgid "Blossom: Author Bio"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:34
+msgid "An Author Bio Widget"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:108
+#: includes/widgets/widget-author-bio.php:450
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:296
+#: includes/widgets/widget-socialmedia.php:60
+#: includes/widgets/widget-socialmedia.php:253
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:110
+#: includes/widgets/widget-contact.php:62
+#: includes/widgets/widget-socialmedia.php:62
+msgid "Search Social Icons"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:111
+#: includes/widgets/widget-author-bio.php:453
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:299
+#: includes/widgets/widget-socialmedia.php:63
+#: includes/widgets/widget-socialmedia.php:256
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:365
+msgid "Author Name"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:370
+msgid "Display photo from:"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:372
+msgid "Gravatar"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:377
+msgid "Upload Author Image"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:380
+msgid "Author Email"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:383
+msgid ""
+"You can show your %1$s image instead of manually uploading your photo. Just "
+"add your gravatar registered email address here."
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:386
+#: includes/widgets/widget-contact.php:242 includes/widgets/widget-cta.php:191
+#: includes/widgets/widget-icon-text.php:119
+#: includes/widgets/widget-team-member.php:191
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:391
+msgid "Display Signature from:"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:393
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:398
+msgid "Upload Signature Image"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:402
+msgid "Signature Text"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:406
+msgid "Button Label"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:411
+msgid "Button Link"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:418
+#: includes/widgets/widget-popular-post.php:258
+#: includes/widgets/widget-posts-category-slider.php:249
+#: includes/widgets/widget-recent-post.php:180
+#: includes/widgets/widget-socialmedia.php:221
+msgid "Open in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:467
+msgid "Add Social Profile"
+msgstr ""
+
+#: includes/widgets/widget-author-bio.php:468
+#: includes/widgets/widget-contact.php:315
+#: includes/widgets/widget-socialmedia.php:272
+msgid ""
+"Click on the above button to add social media icons. You can also change "
+"the order of the social icons."
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "Blossom: Client Logo Widget"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:26
+msgid "A Client Logo Widget."
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:148
+msgid "Display logo in black and white"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:178
+msgid "Add Another Logo"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:44
+msgid "Blossom: Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:247
+msgid "Telephone"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:252
+msgid "Email"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:257
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:264
+msgid "Open Social Links in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:314
+#: includes/widgets/widget-socialmedia.php:271
+msgid "Add Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:26
+msgid "Blossom: Call To Action"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Widget."
+msgstr ""
+
+#: includes/widgets/widget-cta.php:196
+msgid "Number of Call-to-Action Buttons:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:210
+msgid "Button 1 Label"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:214
+msgid "Button 1 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:221
+msgid "Button 2 Label"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:225
+msgid "Button 2 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:231
+msgid "Button Alignment:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:242
+#: includes/widgets/widget-custom-categories.php:104
+msgid "Open in new Tab"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:245
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:16
+msgid "Blossom: Custom Categories"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:19
+msgid "Widget to display categories with Image and Posts Count"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:70
+msgid " Post(s)"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:87
+#: includes/widgets/widget-posts-category-slider.php:178
+msgid "New title"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:99
+#: includes/widgets/widget-pinterest.php:67
+#: includes/widgets/widget-posts-category-slider.php:213
+#: includes/widgets/widget-snapchat.php:99
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-custom-categories.php:154
+msgid ""
+"To set thumbnail for categories, go to %1$sPosts > Categories%2$s and "
+"%3$sEdit%4$s the categories."
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:25
+msgid "Blossom: Facebook Page"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:26
+msgid "A widget that shows Facebook Page Box"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:109
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:114
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:120
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:125
+msgid "Use Small Header"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:130
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:135
+msgid "Show Timeline Tab"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:140
+msgid "Show Event Tab"
+msgstr ""
+
+#: includes/widgets/widget-facebook-page.php:145
+msgid "Show Message Tab"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:25
+msgid "Blossom: FAQs"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:26
+msgid "A Widget for FAQs."
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:51
+msgid "Expand/Close"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:88
+msgid "Enable FAQs Toggle"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:115
+msgid "Add FAQs"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:25
+msgid "Blossom: Featured Page Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:26
+msgid "A Featured Page Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:33
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:34
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:35
+msgid "Centered"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:48
+#: includes/widgets/widget-featured-page.php:148
+#: includes/widgets/widget-featured-page.php:229
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:136
+msgid "--Choose--"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:159
+msgid "Page:"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:171
+msgid "Show Page Full Content"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:178
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:183
+msgid "Image Alignment:"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:196
+msgid "Show Read More"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:206
+msgid "Read More Text"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "Blossom: Icon Text"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:125
+msgid "or"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:128
+#: includes/widgets/widget-stat-counter.php:145
+msgid "Icons"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:140
+msgid "search icons here..."
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:150
+msgid "Read More Label"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:155
+msgid "Read More Link"
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:26
+msgid "Blossom: Image Text"
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:27
+msgid "An Image Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:40
+#: includes/widgets/widget-image-text.php:164
+msgid "Link Text"
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:180
+msgid "Add Image Text"
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:15
+msgid "Add your latest pins form Pinterest."
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:16
+msgid "Blossom: Pinterest"
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:71
+msgid "Pinterest URL:"
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:75
+msgid "Height: (px)"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:28
+msgid "Blossom: Popular Post"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:29
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:65
+msgid "0 View"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:67
+msgid " View"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:69
+msgid " Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:149
+#: includes/widgets/widget-posts-category-slider.php:97
+#: includes/widgets/widget-recent-post.php:92
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:219
+#: includes/widgets/widget-recent-post.php:150
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:224
+msgid "Popular based on:"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:226
+msgid "Post Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:227
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:232
+#: includes/widgets/widget-recent-post.php:165
+msgid "Layout:"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:248
+#: includes/widgets/widget-recent-post.php:156
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:253
+#: includes/widgets/widget-recent-post.php:161
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:18
+msgid "Blossom: Posts Category Slider"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:21
+msgid "Simple posts slider from category."
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:218
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:227
+msgid "Number of Slides:"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:229
+msgid ""
+"Total number of posts available in the selected category will be the "
+"maximum number of slides."
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:234
+msgid "Show Slider Arrows"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:239
+msgid "Show Slider Pagination"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:244
+msgid "Change Direction"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:245
+msgid ""
+"Enabling this will change slider direction from 'right to left' to 'left to "
+"right'."
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:25
+msgid "Blossom: Recent Post"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:39
+#: includes/widgets/widget-recent-post.php:136
+#: includes/widgets/widget-recent-post.php:199
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:100
+msgid "%1$s"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:29
+msgid "Display your Snapchat Snapcode."
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:51
+msgid "Please upload your Snapchat image."
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:70
+msgid "Follow <b>%s</b> on Snapchat!"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:103
+msgid "Step 1. Download your Snapcode PNG image from"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:103
+msgid "this link"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:104
+msgid "Step 2. Upload your Snapcode PNG image using the button below."
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:116
+msgid "Upload Snapchat Image"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:122
+msgid "Snapchat Account Name:"
+msgstr ""
+
+#: includes/widgets/widget-snapchat.php:123
+msgid "For example:"
+msgstr ""
+
+#: includes/widgets/widget-socialmedia.php:44
+msgid "Blossom: Social Media"
+msgstr ""
+
+#: includes/widgets/widget-socialmedia.php:45
+msgid "A Social Links Widget"
+msgstr ""
+
+#: includes/widgets/widget-socialmedia.php:202
+msgid "Subscribe and Follow"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:26
+msgid "Blossom: Stat Counter Widget"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:27
+msgid "Widget for stat counter."
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:135
+msgid "Counter"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:141
+msgid "Show Comma"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:156
+msgid "Search Icons Here..."
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:25
+msgid "Blossom: Team Member"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:181
+#: includes/widgets/widget-testimonial.php:104
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:186
+#: includes/widgets/widget-testimonial.php:109
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:200
+msgid "Upload Photo"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:203
+msgid "Linkedin Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:209
+msgid "Twitter Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:213
+msgid "Facebook Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:217
+msgid "Instagram Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:221
+msgid "Youtube Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:225
+msgid "Dribbble Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:229
+msgid "Behence Profile"
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:25
+msgid "Blossom: Testimonial"
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:26
+msgid "A Testimonial Widget."
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:114
+msgid "Testimonial"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:39
+msgid "Blossom: Twitter Feed"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:40
+msgid "A widget that shows latest tweets"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:140
+msgid "Theme"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:141
+#: includes/widgets/widget-twitter-feeds.php:142
+msgid "Choose a theme&hellip;"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:154
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:159
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:164
+msgid "Link Color"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:170
+msgid "Number of tweets"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BlossomThemes Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/blossomthemes-toolkit/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BlossomThemes Toolkit provides you necessary widgets for better and "
+"effective blogging."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "blossomthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""

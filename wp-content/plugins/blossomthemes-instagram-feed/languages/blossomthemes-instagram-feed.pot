@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-19 05:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:20
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:20
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:28
+msgid "General"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:29
+msgid "Usage"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:37
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:149
+msgid "Username"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:41
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:45
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:178
+msgid "Profile Link Text"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:51
+msgid "Uses"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:53
+msgid "Display via Shortcode"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-settings.php:63
+msgid "Display via PHP Function"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:25
+msgid "BlossomThemes: Instagram"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:26
+msgid "A Instagram Widget that displays your latest Instagram photos."
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:128
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:144
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:154
+msgid "Number of photos"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:159
+msgid "Photo size"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:161
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:162
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:163
+msgid "Large"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:168
+msgid "Photos Per Row"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:173
+msgid "Display Comments/Likes"
+msgstr ""
+
+#. Name of the plugin
+msgid "BlossomThemes Instagram Feed"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show instagram feed on your website using shortcode and widget."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/blossomthemes-instagram-feed"
+msgstr ""
+
+#. Author of the plugin
+msgid "blossomthemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blossomthemes.com"
+msgstr ""
